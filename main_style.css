@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}  
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 0 25px;
+}
+ul li a {
+    text-decoration: none;
+    padding: 0 3px;
+}
+p a {
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
